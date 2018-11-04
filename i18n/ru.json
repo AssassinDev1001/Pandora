@@ -1,0 +1,60 @@
+{
+	"language_for": "ru",
+	"Language": "English",
+	"language": "english",
+
+	"site_title": "Сага о Пандоре",
+
+	"title1":"Новости",
+	"title2":"РУКОВОДСТВО",
+	"title3":"ФОРУМ",
+	"title4":"СООБЩЕСТВО",
+	"title5":"СКАЧАТЬ",
+	"title6":"ОПЛАТА",
+	"title7":"ГОЛ",
+	"title8":"ПОДДЕРЖКА",
+	"title9":"ВЫЙТИ",
+
+	"title":"заглавие",
+	"kind":"вид",
+
+	"event":"мероприятие",
+	"important":"Важный",
+	"shop":"Магазин",
+
+	"clear":"ЧИСТО",
+	"modify":"ИЗМЕНИТЬ",
+
+	"send":"ОТПРАВИТЬ",
+	"all_news_news":"Все новости Новости",
+	"archive":"архив",
+	"rememberme":"Запомни меня!",
+	"forgotpassword":"Забыли пароль?",
+	"photosofplayers":"ФОТО ИГРОКОВ",
+	"allphotos":"Все фотографии",
+
+	"screenshots":"СКРИНШОТЫ",
+	"allscreenshots":"Все СКРИНШОТЫ",
+
+	"playerrankings":"ИГРОВЫЕ РЕЙТИНГИ",
+
+	"no":"HET",
+	"name":"имя",
+	"och":"И",
+	"guild":"Гильдия",
+
+	"allratings":"Все рейтинги",
+	"logout":"ВЫЙТИ",
+	"delete":"УДАЛИТЬ",
+
+	"checkin":"Регистрироваться",
+
+	"name":"ИМЯ",
+	"email":"АДРЕС ЭЛЕКТРОННОЙ ПОЧТЫ",
+	"password":"ПАРОЛЬ",
+	"hint1":"(не менее 8 символов)",
+	"confirm":"Подтверждение пароля",
+	"security":"Секретный вопрос:",
+	"answer":"Ответ:",
+	"botcheck":"Проверка ботов:"
+}

@@ -1,0 +1,7 @@
+2018-8-10 15:31:36 : success : W: Listening on port 
+2018-8-10 15:32:09 : success : W: Listening on port 
+2018-8-10 15:33:46 : info : register - [begin] - username:Dark   email:hwksunstar@yandex.com   ip:::1
+2018-8-10 15:33:46 : error : register - check_dup - name already exists - username:Dark   email:hwksunstar@yandex.com
+2018-8-10 15:34:11 : info : register - [begin] - username:Dark   email:hwksunstar@yandex.com   ip:::1
+2018-8-10 15:34:12 : info : register - create_register_buffer - success - username:Dark   password:123456789   email:hwksunstar@yandex.com   ip_address:::1   verification_code:15432
+2018-8-10 15:34:15 : info : register - send_verification_code - success - username:Dark   email:hwksunstar@yandex.com   verification_code:15432   lang:en

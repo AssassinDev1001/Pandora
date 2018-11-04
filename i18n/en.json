@@ -1,0 +1,61 @@
+{
+	"language_for": "en",
+	"Language": "English",
+	"language": "english",
+
+	"site_title": "Pandora Saga",
+
+	"title1":"NEWS",
+	"title2":"GUIDE",
+	"title3":"FORUM",
+	"title4":"COMMUNITY",
+	"title5":"DOWNLOAD",
+	"title6":"PAYMENT",
+	"title7":"SCORE",
+	"title8":"SUPPORT",
+	"title9":"LOGOUT",
+
+	"title":"Title",
+	"kind":"Kind",
+
+	"event":"Event",
+	"important":"Important",
+	"shop":"Shop",
+
+	"clear":"CLEAR",
+	"modify":"MODIFY",
+
+	"send":"SEND",
+	"all_news_news":"All news News",
+	"archive":"archive",
+	"rememberme":"Remember Me!",
+	"forgotpassword":"Forgot Password?",
+
+	"photosofplayers":"PHOTOS OF PLAYERS",
+	"allphotos":"All Photos",
+
+	"screenshots":"SCREENSHOTS",
+	"allscreenshots":"All SCREENSHOTS",
+
+	"playerrankings":"PLAYER RANKINGS",
+
+	"no":"No",
+	"name":"Name",
+	"och":"OCH",
+	"guild":"Guild",
+
+	"allratings":"All ratings",
+	"logout":"LOGOUT",
+	"delete":"DELETE",
+
+	"checkin":"check in",
+
+	"name":"NAME",
+	"email":"E-MAIL ADDRESS",
+	"password":"PASSWORD",
+	"hint1":"(minimum 8 characters)",
+	"confirm":"Password confirmation",
+	"security":"Secret Question:",
+	"answer":"Answer:",
+	"botcheck":"Bot Checking:"
+}

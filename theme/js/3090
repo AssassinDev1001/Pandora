@@ -1,0 +1,22 @@
+document.write("<link rel=\"stylesheet\" media=\"screen\" href=\"http:\/\/css.static.gmrk.mail.ru\/games\/games-headline.css\">\r\n<div class=\"games-headline\">\r\n<div class=\"games-headline__fixed\">\r\n<div class=\"games-headline__width\" id=\"games_headline_cont\">\r\n<a href=\"http:\/\/r.mail.ru\/n163300146?sz=&amp;rnd=884833998\" class=\"games-headline__logo\" target=\"_blank\"><\/a>\r\n<a href=\"http:\/\/r.mail.ru\/n163300147?sz=&amp;rnd=884833998\" class=\"games-headline__link\" target=\"_blank\">Играй<\/a>\r\n<a href=\"http:\/\/r.mail.ru\/n163300148?sz=&amp;rnd=884833998\" class=\"games-headline__link\" target=\"_blank\">Новости<\/a>\r\n<a href=\"http:\/\/r.mail.ru\/n163300149?sz=&amp;rnd=884833998\" class=\"games-headline__link\" target=\"_blank\">Общайся<\/a>\r\n<\/div>\r\n<\/div>\r\n<\/div>\r\n<script language=\"javascript\" type=\"text\/javascript\"><!--\r\nvar elem = document.getElementById('games_headline_cont');\r\nif (elem){\r\n\telem.innerHTML = elem.innerHTML + '<img src=\"\/\/rs.mail.ru\/m.gif?g='+document.domain+'&rnd='+Math.random()+'\" border=\"0\" width=\"1\" height=\"1\">';\r\n}\r\n\r\nfunction gamesHeadline_contentLoaded(win, fn) {\r\n\r\n\tvar done = false, top = true,\r\n\r\n\tdoc = win.document, root = doc.documentElement,\r\n\r\n\tadd = doc.addEventListener ? 'addEventListener' : 'attachEvent',\r\n\trem = doc.addEventListener ? 'removeEventListener' : 'detachEvent',\r\n\tpre = doc.addEventListener ? '' : 'on',\r\n\r\n\tinit = function(e) {\r\n\t\tif (e.type == 'readystatechange' && doc.readyState != 'complete') return;\r\n\t\t(e.type == 'load' ? win : doc)[rem](pre + e.type, init, false);\r\n\t\tif (!done && (done = true)) fn.call(win, e.type || e);\r\n\t},\r\n\r\n\tpoll = function() {\r\n\t\ttry { root.doScroll('left'); } catch(e) { setTimeout(poll, 50); return; }\r\n\t\tinit('poll');\r\n\t};\r\n\r\n\tif (doc.readyState == 'complete') fn.call(win, 'lazy');\r\n\telse {\r\n\t\tif (doc.createEventObject && root.doScroll) {\r\n\t\t\ttry { top = !win.frameElement; } catch(e) { }\r\n\t\t\tif (top) poll();\r\n\t\t}\r\n\t\tdoc[add](pre + 'DOMContentLoaded', init, false);\r\n\t\tdoc[add](pre + 'readystatechange', init, false);\r\n\t\twin[add](pre + 'load', init, false);\r\n\t}\r\n\r\n}\r\n\r\ngamesHeadline_contentLoaded(window, function() {\r\n\tvar loginBox = document.getElementById('mrg__loginBox');\r\n\tif (loginBox && loginBox.childNodes.length) { return false; };\r\n\r\n    var gamesHeadline = document.getElementById('games_headline_cont');\r\n    var rating;\r\n\ttry {\r\n\t\trating = document.createElement(\"<div><\/div>\");\r\n\t} catch (e) {\r\n\t\trating = document.createElement('div');\r\n\t}\r\n    rating.setAttribute(\"style\", \"position: absolute; top: 5px; right: 10px; width: 18px; height: 18px; background-image: url('https:\/\/web.archive.org\/web\/20170222135823\/http:\/\/games.mail.ru\/img\/age_ratings\/icons-age-rating-rars-small.png')\");\r\n    \r\n    if (typeof portal_age_limit != 'undefined') {\r\n        if (portal_age_limit == 0) {\r\n            rating.style.backgroundPosition = '0 -18px';\r\n            gamesHeadline.appendChild(rating);\r\n        } else if (portal_age_limit == 6) {\r\n            rating.style.backgroundPosition = '-18px -18px';\r\n            gamesHeadline.appendChild(rating);\r\n        } else if (portal_age_limit == 12) {\r\n             rating.style.backgroundPosition = '-36px -18px';\r\n            gamesHeadline.appendChild(rating);\r\n        } else if (portal_age_limit == 16) {\r\n            rating.style.backgroundPosition = '-54px -18px';\r\n            gamesHeadline.appendChild(rating);\r\n        } else if (portal_age_limit == 18) {\r\n            rating.style.backgroundPosition = '-72px -18px';\r\n            gamesHeadline.appendChild(rating);\r\n        }\r\n    }\r\n});\r\n\r\n--><\/script>\r\n\r\n");
+/*
+     FILE ARCHIVED ON 13:58:23 Feb 22, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:10:00 Aug 01, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  LoadShardBlock: 55.808 (3)
+  esindex: 0.007
+  captures_list: 70.466
+  CDXLines.iter: 10.436 (3)
+  PetaboxLoader3.datanode: 45.323 (4)
+  exclusion.robots: 0.171
+  exclusion.robots.policy: 0.161
+  RedisCDXSource: 1.507
+  PetaboxLoader3.resolve: 783.776
+  load_resource: 828.565
+*/

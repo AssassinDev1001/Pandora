@@ -1,0 +1,75 @@
+2018-8-8 09:01:03 : success : W: Listening on port 
+2018-8-8 09:02:08 : info : register - [begin] - username:hwk   email:hwk-kijng@outlook.com   ip:::1
+2018-8-8 09:02:08 : info : register - create_register_buffer - success - username:hwk   password:123456789   email:hwk-kijng@outlook.com   ip_address:::1   verification_code:11547
+2018-8-8 09:02:16 : info : register - send_verification_code - success - username:hwk   email:hwk-kijng@outlook.com   verification_code:11547   lang:en
+2018-8-8 09:04:58 : success : W: Listening on port 
+2018-8-8 09:06:05 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:06:05 : info : register - create_register_buffer - success - username:hwk   password:123456789   email:hwk-king@outlook.com   ip_address:::1   verification_code:19928
+2018-8-8 09:06:07 : info : register - send_verification_code - success - username:hwk   email:hwk-king@outlook.com   verification_code:19928   lang:en
+2018-8-8 09:08:12 : success : W: Listening on port 
+2018-8-8 09:08:42 : success : W: Listening on port 
+2018-8-8 09:14:34 : success : W: Listening on port 
+2018-8-8 09:16:11 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:17:42 : info : register - create_register_buffer - success - username:hwk   password:123456789   email:hwk-king@outlook.com   ip_address:::1   verification_code:15193
+2018-8-8 09:17:45 : info : register - send_verification_code - success - username:hwk   email:hwk-king@outlook.com   verification_code:15193   lang:en
+2018-8-8 09:18:17 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:22:18 : info : register - create_register_buffer - success - username:hwk   password:123456789   email:hwk-king@outlook.com   ip_address:::1   verification_code:12752
+2018-8-8 09:22:21 : info : register - send_verification_code - success - username:hwk   email:hwk-king@outlook.com   verification_code:12752   lang:en
+2018-8-8 09:23:10 : success : W: Listening on port 
+2018-8-8 09:23:44 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:24:20 : error : register - check_dup - name already exists - username:hwk   email:hwk-king@outlook.com
+2018-8-8 09:24:27 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:24:34 : error : register - check_dup - name already exists - username:hwk   email:hwk-king@outlook.com
+2018-8-8 09:24:37 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:24:37 : error : register - check_dup - name already exists - username:hwk   email:hwk-king@outlook.com
+2018-8-8 09:25:06 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:25:06 : error : register - check_dup - name already exists - username:hwk   email:hwk-king@outlook.com
+2018-8-8 09:35:37 : success : W: Listening on port 
+2018-8-8 09:37:33 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:37:33 : error : register - check_dup - name already exists - username:hwk   email:hwk-king@outlook.com
+2018-8-8 09:37:46 : info : register - [begin] - username:hwk   email:hwk-king@outlook.com   ip:::1
+2018-8-8 09:37:49 : info : register - create_register_buffer - success - username:hwk   password:123456789   email:hwk-king@outlook.com   ip_address:::1   verification_code:11521
+2018-8-8 09:37:52 : info : register - send_verification_code - success - username:hwk   email:hwk-king@outlook.com   verification_code:11521   lang:en
+2018-8-8 10:14:34 : success : W: Listening on port 
+2018-8-8 10:21:39 : success : W: Listening on port 
+2018-8-8 10:23:49 : success : W: Listening on port 
+2018-8-8 10:34:10 : success : W: Listening on port 
+2018-8-8 10:36:02 : success : W: Listening on port 
+2018-8-8 12:11:05 : success : W: Listening on port 
+2018-8-8 12:24:31 : success : W: Listening on port 
+2018-8-8 12:28:16 : success : W: Listening on port 
+2018-8-8 12:29:51 : success : W: Listening on port 
+2018-8-8 12:34:12 : success : W: Listening on port 
+2018-8-8 12:43:45 : success : W: Listening on port 
+2018-8-8 12:45:18 : success : W: Listening on port 
+2018-8-8 12:46:34 : success : W: Listening on port 
+2018-8-8 12:52:50 : success : W: Listening on port 
+2018-8-8 13:03:10 : success : W: Listening on port 
+2018-8-8 13:06:13 : success : W: Listening on port 
+2018-8-8 13:10:23 : success : W: Listening on port 
+2018-8-8 13:35:28 : success : W: Listening on port 
+2018-8-8 13:39:44 : success : W: Listening on port 
+2018-8-8 13:41:30 : success : W: Listening on port 
+2018-8-8 13:45:56 : success : W: Listening on port 
+2018-8-8 13:47:06 : error : login - validate_user - email:hwk-king@outlook.com
+2018-8-8 13:53:54 : success : W: Listening on port 
+2018-8-8 13:57:13 : success : W: Listening on port 
+2018-8-8 14:00:16 : success : W: Listening on port 
+2018-8-8 14:09:32 : success : W: Listening on port 
+2018-8-8 14:25:17 : success : W: Listening on port 
+2018-8-8 14:28:52 : success : W: Listening on port 
+2018-8-8 14:30:07 : success : W: Listening on port 
+2018-8-8 14:38:06 : success : W: Listening on port 
+2018-8-8 16:59:10 : success : W: Listening on port 
+2018-8-8 17:02:07 : success : W: Listening on port 
+2018-8-8 17:36:56 : success : W: Listening on port 
+2018-8-8 17:37:32 : success : W: Listening on port 
+2018-8-8 17:43:04 : success : W: Listening on port 
+2018-8-8 18:22:13 : error : login - validate_user - email:hwk-king@outlook.com
+2018-8-8 18:46:38 : success : W: Listening on port 
+2018-8-8 18:49:42 : info : register - [begin] - username:dark   email:hwk-king@outlook.com   ip:::1
+2018-8-8 18:49:42 : error : register - check_dup - email already exists - username:dark   email:hwk-king@outlook.com
+2018-8-8 18:50:05 : info : register - [begin] - username:dark   email:hwk-king@outlook.com   ip:::1
+2018-8-8 18:50:05 : info : register - create_register_buffer - success - username:dark   password:123456789   email:hwk-king@outlook.com   ip_address:::1   verification_code:14046
+2018-8-8 18:50:11 : info : register - send_verification_code - success - username:dark   email:hwk-king@outlook.com   verification_code:14046   lang:ru
+2018-8-8 22:05:24 : success : W: Listening on port 

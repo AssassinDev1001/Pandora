@@ -1,0 +1,127 @@
+w100 {
+		width: 100%;
+}
+
+input.hi, select.hi{
+	  border: solid 1px #ea1919;
+}
+
+div.error {margin:0 0 10px;}
+
+div.error table {
+    width:100%;
+    height:19px;
+}
+div.error #left{
+    height:19px;
+    width: 20px;
+    background:url(/web/20120411054446im_/http://pandora.mail.ru/img/errorleft.gif) no-repeat top right;
+}
+
+div.error #right{
+    height:19px;
+    width: 19px;
+    background:url(/web/20120411054446im_/http://pandora.mail.ru/img/errorright.gif) no-repeat top left;
+}
+
+div.error #center{
+    height:19px;
+    background:url(/web/20120411054446im_/http://pandora.mail.ru/img/errorbg.gif) repeat-x top left;
+    color: #ffffff;
+    text-align: center;
+}
+
+div.error #center a{
+	color: #fff;
+}
+
+div.errorgreen {margin:0 0 10px;}
+
+div.errorgreen table {
+    width:100%;
+    height:19px;
+}
+div.errorgreen #left{
+    height:19px;
+    width: 21px;
+    background:url(/web/20120411054446im_/http://pandora.mail.ru/img/errorleftgreen.gif) no-repeat top right;
+}
+
+div.errorgreen #right{
+    height:19px;
+    width: 21px;
+    background:url(/web/20120411054446im_/http://pandora.mail.ru/img/errorrightgreen.gif) no-repeat top left;
+}
+
+div.errorgreen #center{
+    height:19px;
+    background:url(/web/20120411054446im_/http://pandora.mail.ru/img/errorbggreen.gif) repeat-x top left;
+    color: #ffffff;
+    text-align: center;
+}
+
+.red {
+    color: #c00000;
+}
+
+div.all_require{
+  color: #ec1010
+}
+
+.warnning{
+    color: red;
+}
+
+.classs_article{
+    height: 200px !important;
+}
+.inputfield{
+    width: 100%;
+    height: 100%;
+}
+
+.note-editable{
+    background-color: #f5f9f8ed;
+}
+
+#txt_title{
+    width: 100%;
+    height: 2.5em;
+}
+#sel_kind{
+    width: 100% !important;
+}
+#lb_title , #lb_kind{
+    float: right;
+    margin: 0 !important;
+}
+#btn_send, #btn_clear{
+    float: right;
+    height: 2.5em;
+    width: 100%;
+}
+
+#lb_title,#lb_kind{
+    font-weight: bold;
+    margin-top: 1%;
+    font-size: 18px;
+}
+
+#id_modify:hover, #id_delete:hover{
+    cursor: pointer;
+}
+
+/*Register page*/
+.register_img{
+    width: 40%;
+    height:45%;
+}
+
+.register_header{
+    margin-top: -3% !important;
+}
+
+/*Details page*/
+.details_header{
+    margin-top: -5% !important;
+}

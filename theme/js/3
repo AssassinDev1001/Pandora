@@ -1,0 +1,14 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 20:10:06 Aug 1, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:10:07 Aug 1, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+document.write("\r\n\r\n<script type=\"text\/javascript\">\r\n\/\/<![CDATA[\r\n(function(w, d) {\r\n        if (w.rb_counter) return;\r\n        function h() {\r\n                var n, a = arguments;\r\n                for(var i=a.length;i--;){\r\n                        n = a[i].split(',');\r\n                        for(var j=n.length;j--;){\r\n                                c(n[j]);\r\n                        }\r\n                }\r\n        }\r\n        function c(n) {\r\n                var m, r = parseInt(Math.random()*1E9), s;\r\n                if (!(m = n.match(\/^(?:cl([bn])|([adgin]))(\\d+)(?:sz(\\d+))?\/))) return;\r\n                if (m[1]) {\r\n                        s = \"s\" + m[1];\r\n                }\r\n                else if(m[2] == \"n\") {\r\n                        s = \"nc\";\r\n                }\r\n                else if(m[2]==\"i\") {\r\n                        r = null;\r\n                        s = m[2];\r\n                }\r\n                else {\r\n                        s = m[2];\r\n                }\r\n                s += m[3] + \".gif?\";\r\n                if (m[4]) s += \"sz=\" + m[4];\r\n                if (r) s += \"&rnd=\" + r;\r\n                (new Image).src = \"\/\/rs.mail.ru\/\" + s;\r\n        }\r\n        (function(o, e, fn) {\r\n                if (o.addEventListener) o.addEventListener(e, fn, false);\r\n                else if (o.attachEvent) o.attachEvent('on' + e, fn);\r\n                else o['on' + e] = fn;\r\n        })(d, 'mousedown', function(e) {\r\n                var n;\r\n                e = e || w.event;\r\n                e = e.target || e.srcElement;\r\n                while (e.parentNode){\r\n                        if (e.getAttribute && (n = e.getAttribute('name')) && (n = n.toString())){\r\n                                h(n);\r\n                        }\r\n                        e = e.parentNode;\r\n                }\r\n        });\r\n        w.rb_counter = h;\r\n})(window, document);\r\n\/\/]]>\r\n<\/script>\r\n\r\n\r\n\r\n\r\n");
